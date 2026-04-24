@@ -2,6 +2,8 @@ Title:
 
 ML Model Comparison and Analysis
 
+Compared multiple ML models (Logistic Regression, Random Forest, Gradient Boosting) on a real-world dataset, analyzing performance, generalization, and trade-offs, achieving ~96% accuracy.
+
 Sections:
 1. Problem Statement
 
@@ -28,4 +30,9 @@ Hyperparameter tuning
 More datasets
 Feature engineering
 
-Compared multiple ML models (Logistic Regression, Random Forest, Gradient Boosting) on a real-world dataset, analyzing performance, generalization, and trade-offs, achieving ~96% accuracy.
+Limitations
+1.The dataset is relatively clean and may not represent real-world noise
+
+2.Limited hyperparameter tuning was performed
+
+3.Results may vary with different data distributions
